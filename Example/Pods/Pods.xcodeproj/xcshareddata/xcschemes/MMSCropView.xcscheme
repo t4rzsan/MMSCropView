@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FD257CDA0A00CEBFC741F7D186CD11FA"
+               BlueprintIdentifier = "8804FD153F46AEB1F477E8FAFBDD41FC"
                BuildableName = "MMSCropView.framework"
                BlueprintName = "MMSCropView"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FD257CDA0A00CEBFC741F7D186CD11FA"
+            BlueprintIdentifier = "8804FD153F46AEB1F477E8FAFBDD41FC"
             BuildableName = "MMSCropView.framework"
             BlueprintName = "MMSCropView"
             ReferencedContainer = "container:Pods.xcodeproj">
